@@ -1,4 +1,4 @@
-# 🔐 Cifrador Personalizado en Python
+# 🔐 Encriptador Personalizable en Python
 
 Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de longitud.
 
