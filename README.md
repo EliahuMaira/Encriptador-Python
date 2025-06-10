@@ -4,11 +4,6 @@ Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de l
 
 ## 🧠 Concepto del Cifrado
 
-### Características:
-- **Lista personalizada** de 69 caracteres
-- **Prefijos dinámicos** indicando longitud del índice
-- **Resistente** a análisis de frecuencia básico
-
 ### Proceso:
 1. Buscar índice del carácter en `lista1`
 2. Calcular dígitos del índice (1-2 dígitos)
