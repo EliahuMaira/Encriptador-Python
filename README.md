@@ -170,4 +170,3 @@ El flujo del programa es sencillo y está pensado para ser interactivo. Todo el 
 
 **Autor:** Eliahu Maira  
 **Fecha:** 06/06/2025  
-**Contacto:** eliahu.en.maira@icloud.com
