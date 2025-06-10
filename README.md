@@ -31,7 +31,7 @@ Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de l
 
 ### Comandos:
 ```bash
-python cifrador.py
+python3 encrypter.py
 ```
 
 ### Opciones:
