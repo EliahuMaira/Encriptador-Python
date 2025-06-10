@@ -11,7 +11,7 @@ Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de l
 
 **Ejemplo:**  
 `"a"` → índice 1 → `"11"`  
-`"z"` → índice 2 → `"227"`
+`"z"` → índice 27 → `"227"`
 
 ## 🎨 Personalización
 
