@@ -27,12 +27,34 @@ Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de l
 | 28-57  | Especiales    | !=28, ?=49, ~=57  |
 | 58-68  | Dígitos (0-9) | 0=58, 9=68        |
 
-## 🛠 Uso
+## 🛠️ Instalación
 
-### Comandos:
+1. Asegúrate de tener Python 3 instalado. Puedes verificarlo ejecutando:
+
+    ```bash
+    python3 --version
+    ```
+
+2. Clona este repositorio o descarga el archivo `encrypter.py`:
+
+    ```bash
+    git clone https://github.com/EliahuMaira/Python-Encrypter.git
+    cd Python-Encrypter
+    ```
+
+3. No se requieren dependencias adicionales. Todo el código utiliza únicamente la biblioteca estándar de Python.
+
+---
+
+## 🚀 Cómo usar
+
+Ejecuta el programa desde la terminal:
+
 ```bash
 python3 encrypter.py
 ```
+
+Sigue las instrucciones en pantalla para cifrar o descifrar mensajes.
 
 ### Opciones:
 - `c`: Cifrar mensaje
