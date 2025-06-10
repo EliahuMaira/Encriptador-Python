@@ -16,13 +16,13 @@ Sistema de **cifrado y descifrado** usando índices numéricos con prefijos de l
 
 **Ejemplo:**  
 `"a"` → índice 1 → `"11"`  
-`"z"` → índice 27 → `"227"`
+`"z"` → índice 2 → `"227"`
 
 ## 🎨 Personalización
 
 ### ¿Cómo funciona el cifrado?
 
-Este encriptador utiliza una "base de datos" personalizada:  
+Este encriptador utiliza una "base de datos" personalizable:  
 Una lista (`lista1`) que contiene todos los caracteres permitidos, en un orden específico.  
 Cada carácter de tu mensaje se convierte en un número según su posición en la lista.  
 El número cifrado incluye un prefijo que indica cuántos dígitos tiene el índice, haciendo el cifrado dinámico y fácil de descifrar.
