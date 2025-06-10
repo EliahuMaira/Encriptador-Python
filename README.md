@@ -100,12 +100,12 @@ Sigue las instrucciones en pantalla para cifrar o descifrar mensajes.
 **Cifrado:**
 ```
 Mensaje: hola
-Cifrado: 1812711312
+Cifrado: 1821621211
 ```
 
 **Descifrado:**
 ```
-Cifrado: 1812711312
+Cifrado: 1821621211
 Mensaje: hola
 ```
 
